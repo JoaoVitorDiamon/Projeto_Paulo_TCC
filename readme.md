@@ -57,10 +57,10 @@ npm run dev
 - - **Matheus Rodrigues**: [GITHUB](https://github.com/matheusrodriguesvxz)
 
 ### Ferramentas Utilizadas
-- - **Flutter**
-- - **Node.JS**
-- - **Docker**
-- - **Postgres**
-- - **Drizzle ORM**
-- - **ZOD**
-- - **Fastfiy**
+-  **Flutter**
+-  **Node.JS**
+-  **Docker**
+-  **Postgres**
+-  **Drizzle ORM**
+-  **ZOD**
+-  **Fastfiy**
